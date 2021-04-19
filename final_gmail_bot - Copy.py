@@ -1,6 +1,6 @@
 path ="C:\\Users\\ADMIN\\Desktop\\gmail\\chromedriver.exe"
-
-
+# add the phone number on line 78
+#add the recovery email on line 194
 
 
 
